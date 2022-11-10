@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Migration.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "BpkCodeGenerate -d c:\\BpkFileTemplate_202211101315283196"
+    }
+  }
+}
